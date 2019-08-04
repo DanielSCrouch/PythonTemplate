@@ -67,3 +67,7 @@ if __name__ == "__main__":
     print(f"Completion timestamp: {get_timestamp()}")
 
     print("Done!")
+
+
+# with open("DOC.txt") as fp:
+#     return random.choice(fp.readlines()).strip()
